@@ -1,5 +1,4 @@
-
-﻿string [] myarray = new string[5];
+string [] myarray = new string[5];
 myarray[0] = "seg";
 myarray[1] = "ter";
 myarray[2] = "quart";

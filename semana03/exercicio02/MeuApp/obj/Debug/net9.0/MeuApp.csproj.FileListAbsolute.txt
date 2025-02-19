@@ -1,0 +1,15 @@
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/bin/Debug/net9.0/MeuApp
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/bin/Debug/net9.0/MeuApp.deps.json
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/bin/Debug/net9.0/MeuApp.runtimeconfig.json
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/bin/Debug/net9.0/MeuApp.dll
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/bin/Debug/net9.0/MeuApp.pdb
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/MeuApp.AssemblyInfoInputs.cache
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/MeuApp.AssemblyInfo.cs
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/MeuApp.sourcelink.json
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/MeuApp.dll
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/refint/MeuApp.dll
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/MeuApp.pdb
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/MeuApp.genruntimeconfig.cache
+/home/talyslinux/meu-projeto/semana03/exercicio02/MeuApp/obj/Debug/net9.0/ref/MeuApp.dll
